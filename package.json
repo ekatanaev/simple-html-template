@@ -18,5 +18,17 @@
   "dependencies": {
     "gulp": "^3.9.1",
     "gulp-less": "^3.3.0"
+    "@reactivex/rxjs": "5.0.0-alpha.4",
+    "angular2": "2.0.0-alpha.44",
+    "http-server": "0.8.5",
+    "object-assign": "4.0.1",
+    "reflect-metadata": "0.1.2",
+    "rimraf": "2.4.3",
+    "semantic-release": "^4.3.5",
+    "ts-loader": "0.5.6",
+    "tsd": "^0.6.5",
+    "typescript": "1.6.2",
+    "webpack": "1.12.2",
+    "zone.js": "0.5.8"
   }
 }
